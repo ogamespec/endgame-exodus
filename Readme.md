@@ -39,7 +39,7 @@ _Бенедикт мало интересовался эмоциями и чув
 
 Практически весь код и контент сгенерирован нейросетями:
 - Плашки аккаунтов игроков сгенерированы Kandinski 3.1: https://www.sberbank.com/promo/kandinsky/   (запрос типа `Космические корабли ведут бой на фоне планеты гиганта стиль рисования штрихами`)
-- Логотип сгенерирован с помощь AI Logo Maker: https://www.logoai.com/logo-maker
+- Логотип сгенерирован с помощью AI Logo Maker: https://www.logoai.com/logo-maker
 - Исходники HTML сгенерированы ChatGPT от TalkAI: https://talkai.info/ru/   (запрос типа `Сделай сайт онлайн игры с формой регистрации для установки, тёмный дизайн, крупные поля ввода`)
 
 OGame - торговая марка Gameforge 4D GmbH: https://lobby.ogame.gameforge.com/
